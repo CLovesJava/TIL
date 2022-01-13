@@ -1,5 +1,8 @@
 # Angry Chicken's Programming room
 ---
+## This is My first Git document
+- Git is too difficult... I sincerely respect all programmers.
+---
 ## Do you like watermelons?
 Yes, I love watermelons. My codes are composed of some watermelons.
 1. You know? I'm a korean rapper.
@@ -13,7 +16,7 @@ Yes, I love watermelons. My codes are composed of some watermelons.
 	- Actually I love Java so much but I don't like Python now.
 	- But I will study Python hard and I finally will able to become friendly with Python.
 3. I can do this all day
-	- My IQ was 132 when I was 12 years old. lol
+	- My IQ was 132 when I was 12 years old. lol (seriously)
 
 anyway...
 ## Hello, World!
